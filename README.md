@@ -31,3 +31,6 @@ THEN I am taken to the corresponding section of the README
 
 ## Video
 https://drive.google.com/file/d/1EoUTjYUqkI11xRGn8e0-uAHAp4Wz_2_x/view
+
+## Sample Readme
+![Screen Shot 2022-05-21 at 1 58 07 PM](https://user-images.githubusercontent.com/94779524/169663710-d42b1a10-3cbd-4b11-91b4-d15122a0f7c7.png)
